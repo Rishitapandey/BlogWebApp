@@ -16,7 +16,7 @@
     "login_image":"login.svg",
     "admin_user":"cybernauts",
     "admin_password": "abcd123",
-    "upload_location":"C:\\Users\\Rishita Pandey\\Desktop\\BlogWebApp\\static"
+    "upload_location":"/Users/purnima/Documents/GitHub/BlogWebApp/static"
 
 
   }
