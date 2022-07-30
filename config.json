@@ -7,15 +7,15 @@
     "fb_url":"https://facebook.com/codingthunder",
     "tw_url":"https://twitter.com/codingthunder",
     "gh_url": "https://github.com/codingthunder",
-    "blog_name": "Coding Thunder",
-    "tag_line": "Heaven for programmers",
+    "blog_name": "Cybernauts",
+    "tag_line": "Crazy coders",
     "gmail-user":"rishita051mca21@igdtuw.ac.in",
     "gmail-password":"",
     "about_text": "This is a blog web app developed by cybernauts",
     "no_of_posts": 3,
     "login_image":"login.svg",
-    "admin_user":"harry",
-    "admin_password": "subscribenow",
+    "admin_user":"cybernauts",
+    "admin_password": "abcd123",
     "upload_location":"C:\\Users\\Rishita Pandey\\Desktop\\BlogWebApp\\static"
 
 
